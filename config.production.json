@@ -1,4 +1,5 @@
 {
+	"url": "https://iaeste.org.mk/",
     "database": {
         "client": "sqlite3",
         "connection": {
